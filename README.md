@@ -1,5 +1,5 @@
 ### Kaggle-titanic
-> This is an IPython Notebook for the Titanic of Kaggle competition, which uses binary logistic regression.
+* This is an IPython Notebook for the Titanic of Kaggle competition, which uses binary logistic regression.
 
 ### Kaggle Competition | Titanic Machine Learning from Disaster
 
@@ -10,7 +10,7 @@
 * While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others
 
 ### Challange
-> In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+* In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
